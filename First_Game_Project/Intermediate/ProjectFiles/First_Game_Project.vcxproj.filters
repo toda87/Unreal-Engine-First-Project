@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\First_Game_Project.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{92906F57-BF06-4BDA-86D1-BEB68DF0587E}</UniqueIdentifier>
+      <UniqueIdentifier>{803D4EDE-3C75-49A3-9CE6-E9AF4F7938AA}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\First_Game_Project.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{A9C60759-BDAA-4F43-B7D2-39C978AD3D87}</UniqueIdentifier>
+      <UniqueIdentifier>{1DA941DB-8F21-4648-8DCC-429EC3E0A61A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\First_Game_Project">
-      <UniqueIdentifier>{E2F0627D-7D66-41F2-A18D-4407DE8D6AD3}</UniqueIdentifier>
+      <UniqueIdentifier>{C47DCA2A-6AB2-4E9F-B7A1-DD117C838B8A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\First_Game_Project\First_Game_Project.Build.cs">
       <Filter>Source\First_Game_Project</Filter>
@@ -39,6 +39,18 @@
       <Filter>Source\First_Game_Project</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\First_Game_Project\First_Game_ProjectGameModeBase.h">
+      <Filter>Source\First_Game_Project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\First_Game_Project\MainCharacter.cpp">
+      <Filter>Source\First_Game_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\First_Game_Project\MainCharacter.h">
+      <Filter>Source\First_Game_Project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\First_Game_Project\MyObject.cpp">
+      <Filter>Source\First_Game_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\First_Game_Project\MyObject.h">
       <Filter>Source\First_Game_Project</Filter>
     </ClInclude>
   </ItemGroup>

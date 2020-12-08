@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-First_Game_Project.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\woojin\Documents\Unreal Projects\Unreal-Engine-First-Project\First_Game_Project\Intermediate\Build\Win64\First_Game_ProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\woojin\Documents\Unreal Projects\Unreal-Engine-First-Project\First_Game_Project\Intermediate\Build\Win64\UE4Editor\Development\First_Game_Project\First_Game_Project.cpp.obj"
+"C:\Users\woojin\Documents\Unreal Projects\Unreal-Engine-First-Project\First_Game_Project\Intermediate\Build\Win64\UE4Editor\Development\First_Game_Project\First_Game_ProjectGameModeBase.cpp.obj"
+"C:\Users\woojin\Documents\Unreal Projects\Unreal-Engine-First-Project\First_Game_Project\Intermediate\Build\Win64\UE4Editor\Development\First_Game_Project\First_Game_Project.init.gen.cpp.obj"
+"C:\Users\woojin\Documents\Unreal Projects\Unreal-Engine-First-Project\First_Game_Project\Intermediate\Build\Win64\UE4Editor\Development\First_Game_Project\First_Game_ProjectGameModeBase.gen.cpp.obj"
+"C:\Users\woojin\Documents\Unreal Projects\Unreal-Engine-First-Project\First_Game_Project\Intermediate\Build\Win64\UE4Editor\Development\First_Game_Project\Default.rc2.res"
+/OUT:"C:\Users\woojin\Documents\Unreal Projects\Unreal-Engine-First-Project\First_Game_Project\Intermediate\Build\Win64\UE4Editor\Development\First_Game_Project\UE4Editor-First_Game_Project.lib"
+/INCLUDE:IMPLEMENT_MODULE_First_Game_Project

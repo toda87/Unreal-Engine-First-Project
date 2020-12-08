@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\woojin\\Documents\\Unreal Projects\\Unreal-Engine-First-Project\\First_Game_Project\\Source\\First_Game_Project\\First_Game_Project.Build.cs",
+		"C:\\Users\\woojin\\Documents\\Unreal Projects\\Unreal-Engine-First-Project\\First_Game_Project\\Source\\First_Game_Project.Target.cs",
+		"C:\\Users\\woojin\\Documents\\Unreal Projects\\Unreal-Engine-First-Project\\First_Game_Project\\Source\\First_Game_ProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.0"
+}

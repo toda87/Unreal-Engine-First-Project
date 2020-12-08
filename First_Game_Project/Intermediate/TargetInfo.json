@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "First_Game_Project",
+			"Path": "C:\\Users\\woojin\\Documents\\Unreal Projects\\Unreal-Engine-First-Project\\First_Game_Project\\Source\\First_Game_Project.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "First_Game_ProjectEditor",
+			"Path": "C:\\Users\\woojin\\Documents\\Unreal Projects\\Unreal-Engine-First-Project\\First_Game_Project\\Source\\First_Game_ProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
